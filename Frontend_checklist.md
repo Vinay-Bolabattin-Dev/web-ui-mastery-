@@ -5,7 +5,7 @@
 
 ## 🏛️ Phase 1: HTML5 Foundations (The Skeleton)
 - [x] Milestone 1: Document Architecture (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, `<meta>`)
-- [ ] Milestone 2: Text Hierarchy & Typography (`<h1>`-`<h6>`, `<p>`, `<span>`, `<strong>`, `<em>` `<hr>`, `<br>`)
+- [x] Milestone 2: Text Hierarchy & Typography (`<h1>`-`<h6>`, `<p>`, `<span>`, `<strong>`, `<em>` `<hr>`, `<br>`)
 - [ ] Milestone 3: Content Containers & Lists (`<div>`, `<ul>`, `<ol>`, `<li>`, `<section>`)
 - [ ] Milestone 4: Interactive Elements & Media (`<a href="..." target="_blank">`, `<button>`, `<img src="..." alt="...">`)
 - [ ] Milestone 5: Native Forms & Inputs (`<form>`, `<input>` types: text/number/date, `<select>`, `<option>`)
